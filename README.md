@@ -40,6 +40,26 @@ This is a full-stack food ordering web application built using the MERN stack (J
 git clone https://github.com/chirag31045/food-delivery-web
 ```
 
+## Frontend Setup
+Navigate to the frontend directory:
+
+```sh
+
+cd frontend
+```
+
+Install dependencies:
+```sh
+
+npm install
+```
+
+Start the frontend server:
+```sh
+
+npm run dev
+```
+
 ## Backend Setup
 Navigate to the backend directory:
 
@@ -65,25 +85,7 @@ Start the backend server:
 ```sh
 npm run server
 ```
-## Frontend Setup
-Navigate to the frontend directory:
 
-```sh
-
-cd frontend
-```
-
-Install dependencies:
-```sh
-
-npm install
-```
-
-Start the frontend server:
-```sh
-
-npm run dev
-```
 
 ## Admin App Setup
 
