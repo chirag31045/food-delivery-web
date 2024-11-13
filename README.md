@@ -112,7 +112,7 @@ Access the admin app at http://localhost:5174.
 Register as a new user or log in with existing credentials.
 Browse the menu, add items to the cart, and place an order.
 Pay using dummy visa card
-Use the admin panel to manage orders, menu items.
+Use the admin panel to manage AddItem, ListItem, orders, menu items.
 
 ## Screenshots
 ![1](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/b3d604f0-ae0e-4e29-9b95-51f6327c3952)
@@ -127,7 +127,7 @@ Use the admin panel to manage orders, menu items.
 ![Capture8](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/c85e4c11-7ebf-4e45-8678-4000abde835d)
 
 ## API Documentation
-The API endpoints for the backend can be documented using tools like insomnia. Include endpoints for user authentication, menu items, orders, and more.
+The API endpoints for the backend can be documented using tools like insomnia. Include endpoints for user authentication, AddItems, ListItem, Orders and more.
 
 
 
