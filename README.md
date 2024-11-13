@@ -1,4 +1,4 @@
-# Food Ordering Web App (MERN Stack)
+# Food Delivery Web (MERN Stack)
 
 ## Table of Contents
 - [Introduction](#introduction)
