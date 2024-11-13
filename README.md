@@ -12,7 +12,7 @@
 - [Contact](#contact)
 
 ## Introduction
-This is a full-stack food ordering web application built using the MERN stack (JavaScript,MongoDB, Express, React, Node.js). The application consists of a customer-facing app for ordering food and an admin app for managing orders, menu items, and more.
+This is a full-stack food ordering web application built using the MERN stack (JavaScript,MongoDB, Express, React, Node.js). The application consists of a customer-facing app for ordering food and an admin app for managing AddItem, ListItem, orders.
 
 ## Features
 - User authentication and authorization
