@@ -12,7 +12,7 @@
 - [Contact](#contact)
 
 ## Introduction
-This is a full-stack food ordering web application built using the MERN stack (MongoDB, Express, React, Node.js). The application consists of a customer-facing app for ordering food and an admin app for managing orders, menu items, and more.
+This is a full-stack food ordering web application built using the MERN stack (JavaScript,MongoDB, Express, React, Node.js). The application consists of a customer-facing app for ordering food and an admin app for managing orders, menu items, and more.
 
 ## Features
 - User authentication and authorization
@@ -20,10 +20,10 @@ This is a full-stack food ordering web application built using the MERN stack (M
 - Add items to the cart and place orders
 - Stripe Payment Integration: Secure and reliable payment processing using Stripe.
 - Order tracking
-- Admin panel to manage menu items, orders
+- Admin panel to manage Additems, ListItem, orders
 
 ## Technologies Used
-- **Frontend:** React.js, React Context API, React Router
+- **Frontend:** JavaScript, React.js, React Context API, React Router
 - **Backend:** Node.js, Express.js
 - **Payment Gateway:** Stripe
 - **Database:** MongoDB
